@@ -1,0 +1,66 @@
+body {
+    background-color: #35374B;
+}
+
+.title {
+    text-align: center;
+    color: #F2C18D;
+}
+
+form {
+    background-color: #78A083;
+    color: #D7E4C0;
+    margin: 0 auto;
+    width: 300px;
+    padding: 16px;
+    border-radius: 6px;
+    text-align: center;
+
+}
+
+#info {
+    display: inline-block;
+    text-align: left;
+    margin: 12px auto;
+}
+
+
+
+button {
+    width: 100px;
+    border: 0px;
+    height: 24px;
+    background-color: rgb(93, 237, 237);
+    border-radius: 6px;
+    margin: 0 3px;
+}
+
+#reset {
+    background-color: rgb(255, 60, 60);
+    color: white;
+}
+
+input {
+    text-align: center;
+    font-size: 16px;
+    margin: 6px;
+
+}
+
+label {
+    font-weight: bold;
+}
+
+select,
+option {
+    text-align: center;
+    width: 170px;
+    font-size: 16px;
+    margin-left: 7px;
+}
+
+#clacRule {
+    background-color: #8CB9BD;
+    border-radius: 6px;
+    padding: 0 12px;
+}
