@@ -64,3 +64,14 @@ option {
     border-radius: 6px;
     padding: 0 12px;
 }
+
+#result {
+    background-color: #78A083;
+    color: #D7E4C0;
+    margin: 0 auto;
+    width: 300px;
+    padding: 16px;
+    border-radius: 6px;
+    text-align: center;
+    display: none;
+}
