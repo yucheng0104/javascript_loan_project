@@ -42,3 +42,8 @@ function calcLoan() {
     console.log(amount, yeasr, rate, fee, rule, totalAmount, totalInterest);
 
 }
+// resetEl.addEventListener("click", reset);
+
+// function reset(){
+
+// }
