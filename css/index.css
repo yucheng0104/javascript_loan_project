@@ -75,3 +75,9 @@ option {
     text-align: center;
     display: none;
 }
+
+#table {
+    background-color: #78A083;
+    color: #D7E4C0;
+    text-align: center;
+}
